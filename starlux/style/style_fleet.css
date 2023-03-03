@@ -1,0 +1,21 @@
+.fleet_option{
+    background-color: #2d2020;
+    padding: 20px;
+}
+
+
+.fleet_option .option{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+}
+
+.fleet_option .option > p {
+    padding: 15px;
+    margin: 10px;
+    font-size: 28px;
+    color: #ffffff;
+    cursor: pointer;
+}
